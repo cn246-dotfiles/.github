@@ -2,4 +2,4 @@
 
 Here are my Dotfile related repositories.
 
-Dotfiles for various Linux and Mac services.
+Configuration files for various Linux and Mac services.
